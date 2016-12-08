@@ -68,22 +68,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document3]
-DocumentPath=..\..\..\MarsVision\Hardware\MarsVisionV1 (mebp037)\MarsVisionV1 (mebp037).SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document4]
 DocumentPath=LED.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,7 +83,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document5]
+[Document4]
 DocumentPath=Boards.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -115,7 +99,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document6]
+[Document5]
 DocumentPath=Boards.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -131,7 +115,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document7]
+[Document6]
 DocumentPath=Altium Library LOG.docx
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -147,8 +131,24 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document8]
+[Document7]
 DocumentPath=..\MY_ALTIUM_NOTATIONS.docx
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document8]
+DocumentPath=..\Utils.xlsx
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
