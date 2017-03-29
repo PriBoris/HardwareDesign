@@ -1,0 +1,117 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\HardwareDesign\AltiumLibrary2\DBLib\data_base.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
+AddMode=2
+RemoveMode=1
+UpdateMode=2
+ViewMode=1
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Excel 2007
+LibraryDatabasePath=D:\HardwareDesign\AltiumLibrary2\DBLib\data_base.xlsx
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LibrarySearchPath=..\PcbLib;..\SchLib
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=resirtor$
+[Table1]
+SchemaName=
+TableName=MCU_CPU$
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table2]
+SchemaName=
+TableName=capacitor$
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table3]
+SchemaName=
+TableName=connector$
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table4]
+SchemaName=
+TableName=diod$
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table5]
+SchemaName=
+TableName=inductor_filter$
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table6]
+SchemaName=
+TableName=mechanical$
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table7]
+SchemaName=
+TableName=operational amplifier$
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table8]
+SchemaName=
+TableName=other$
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table9]
+SchemaName=
+TableName=power$
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table10]
+SchemaName=
+TableName=resirtor$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=Library Path0=Down
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=91|Library Ref0=98|Footprint Path0=99|Footprint Ref0=100|Footprint Path20=106|Footprint Ref20=100|Description0=86|id0=45|rem0=84|package0=70|value0=52|tolerance0=74|power/voltage0=99|note0=47|PartNumber0=90|Manufacturer0=94|ComponentLink1Description0=181|ComponentLink1URL0=143|Autor0=123|Comment0=205
+[Table11]
+SchemaName=
+TableName=transistor$
+Enabled=False
+UserWhere=0
+UserWhereText=
+[FieldMap1]
+Options=FieldName=capacitor$.Library Path|TableNameOnly=capacitor$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=capacitor$.Library Ref|TableNameOnly=capacitor$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=capacitor$.Footprint Path|TableNameOnly=capacitor$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=capacitor$.Footprint Ref|TableNameOnly=capacitor$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=capacitor$.Footprint Path2|TableNameOnly=capacitor$|FieldNameOnly=Footprint Path2|FieldType=1|ParameterName=[Footprint Path2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=capacitor$.Footprint Ref2|TableNameOnly=capacitor$|FieldNameOnly=Footprint Ref2|FieldType=1|ParameterName=[Footprint Ref2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=resirtor$.Library Path|TableNameOnly=resirtor$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=resirtor$.Library Ref|TableNameOnly=resirtor$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=resirtor$.Footprint Path|TableNameOnly=resirtor$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=resirtor$.Footprint Ref|TableNameOnly=resirtor$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=resirtor$.Footprint Path2|TableNameOnly=resirtor$|FieldNameOnly=Footprint Path2|FieldType=1|ParameterName=[Footprint Path2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=resirtor$.Footprint Ref2|TableNameOnly=resirtor$|FieldNameOnly=Footprint Ref2|FieldType=1|ParameterName=[Footprint Ref2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=resirtor$.Description|TableNameOnly=resirtor$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
