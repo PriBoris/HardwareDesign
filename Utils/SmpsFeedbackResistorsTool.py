@@ -17,8 +17,8 @@ def get_error(voltage, target_voltage):
 SMPS_NAME = "LT1372"
 ROW_NAME = "E3"
 DECADE_MIN = 1000
-DECADE_MAX = 10000
-RESULT_COUNT = 20
+DECADE_MAX = 100000
+RESULT_COUNT = 10
 
 R1_R2_ENABLE = True
 R1_R21_R22_ENABLE = False
@@ -26,7 +26,8 @@ R11_R12_R2_ENABLE = False
 
 
 ref_voltage = smps.get_ref_voltage(SMPS_NAME)
-target_voltage = 5.0
+target_voltage = 6
+
 
 
 print("smps:", SMPS_NAME)

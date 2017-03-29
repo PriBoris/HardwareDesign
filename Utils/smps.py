@@ -1,6 +1,6 @@
 """
 
-
+TODO:
 """
 
 def get_ref_voltage(name):
@@ -8,6 +8,7 @@ def get_ref_voltage(name):
 	smps_ref_voltages = {}
 	smps_ref_voltages["LM43603"] = 1.011
 	smps_ref_voltages["LTC3124"] = 1.2
+	smps_ref_voltages["LTC3127"] = 1.195 #1.165 1.195 1.225
 	smps_ref_voltages["LT1372"] = 1.245
 
 
