@@ -1,4 +1,6 @@
 *.sublime-workspace
 *.pyc
 *.IntLib
+*.SchDocPreview
+
 
