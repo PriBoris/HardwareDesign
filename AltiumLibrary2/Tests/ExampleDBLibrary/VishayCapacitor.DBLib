@@ -5,7 +5,7 @@ ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\HardwareDesign\
 AddMode=2
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -28,7 +28,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=ComponentLink1Description0=Up
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=103|Library Ref0=139|Library Path0=155|Footprint Path0=345|Footprint Ref0=110|Component Type0=110|ComponentLink1Description0=170|ComponentLink1URL0=131|ComponentLink2Description0=170|ComponentLink2URL0=249|DatasheetDocument0=128|Designator0=103|Footprint0=110|Note0=253|PackageDocument0=118|PackageReference0=116|Pin Count0=74|Published0=74|Publisher0=81|Signal Integrity0=101|Simulation0=78|Value0=52|LatestRevisionDate0=120|LatestRevisionNote0=233
+BrowserOrder_Visible=Part Number0=114|Library Ref0=145|Library Path0=175|Footprint Path0=380|Footprint Ref0=126|Component Type0=117|ComponentLink1Description0=181|ComponentLink1URL0=143|ComponentLink2Description0=181|ComponentLink2URL0=258|DatasheetDocument0=137|Designator0=114|Footprint0=126|Note0=269|PackageDocument0=128|PackageReference0=128|Pin Count0=77|Published0=80|Publisher0=86|Signal Integrity0=103|Simulation0=82|Value0=54|LatestRevisionDate0=131|LatestRevisionNote0=246
 [Table2]
 SchemaName=
 TableName=Capacitor - Electrolytic
