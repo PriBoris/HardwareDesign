@@ -1,0 +1,94 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\HardwareDesign\AltiumLibrary2\DataBaseTables\db.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Excel
+LibraryDatabasePath=DataBaseTables\db.xls
+DatabasePathRelative=1
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=Interface - CAN transceiver$
+[Table1]
+SchemaName=
+TableName=Interface - CAN transceiver$
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table2]
+SchemaName=
+TableName=Interface - USB bridge$
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table3]
+SchemaName=
+TableName=Resistor - General Purpose SMD$
+Enabled=True
+UserWhere=0
+UserWhereText=
+[FieldMap1]
+Options=FieldName=Interface - CAN transceiver$.Part Number|TableNameOnly=Interface - CAN transceiver$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=Interface - CAN transceiver$.Library Path|TableNameOnly=Interface - CAN transceiver$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=Interface - CAN transceiver$.Library Ref|TableNameOnly=Interface - CAN transceiver$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=Interface - CAN transceiver$.Footprint Path|TableNameOnly=Interface - CAN transceiver$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=Interface - CAN transceiver$.Footprint Ref|TableNameOnly=Interface - CAN transceiver$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=Interface - CAN transceiver$.Footprint Path2|TableNameOnly=Interface - CAN transceiver$|FieldNameOnly=Footprint Path2|FieldType=1|ParameterName=[Footprint Path2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=Interface - CAN transceiver$.Footprint Ref2|TableNameOnly=Interface - CAN transceiver$|FieldNameOnly=Footprint Ref2|FieldType=1|ParameterName=[Footprint Ref2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=Interface - CAN transceiver$.Footprint Path3|TableNameOnly=Interface - CAN transceiver$|FieldNameOnly=Footprint Path3|FieldType=1|ParameterName=[Footprint Path3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=Interface - CAN transceiver$.Footprint Ref3|TableNameOnly=Interface - CAN transceiver$|FieldNameOnly=Footprint Ref3|FieldType=1|ParameterName=[Footprint Ref3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=Interface - USB bridge$.Part Number|TableNameOnly=Interface - USB bridge$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=Interface - USB bridge$.Library Path|TableNameOnly=Interface - USB bridge$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=Interface - USB bridge$.Library Ref|TableNameOnly=Interface - USB bridge$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=Interface - USB bridge$.Footprint Path|TableNameOnly=Interface - USB bridge$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=Interface - USB bridge$.Footprint Ref|TableNameOnly=Interface - USB bridge$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=Interface - USB bridge$.Footprint Path2|TableNameOnly=Interface - USB bridge$|FieldNameOnly=Footprint Path2|FieldType=1|ParameterName=[Footprint Path2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=Interface - USB bridge$.Footprint Ref2|TableNameOnly=Interface - USB bridge$|FieldNameOnly=Footprint Ref2|FieldType=1|ParameterName=[Footprint Ref2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=Interface - USB bridge$.Footprint Path3|TableNameOnly=Interface - USB bridge$|FieldNameOnly=Footprint Path3|FieldType=1|ParameterName=[Footprint Path3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap18]
+Options=FieldName=Interface - USB bridge$.Footprint Ref3|TableNameOnly=Interface - USB bridge$|FieldNameOnly=Footprint Ref3|FieldType=1|ParameterName=[Footprint Ref3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap19]
+Options=FieldName=Resistor - General Purpose SMD$.Part Number|TableNameOnly=Resistor - General Purpose SMD$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap20]
+Options=FieldName=Resistor - General Purpose SMD$.Library Path|TableNameOnly=Resistor - General Purpose SMD$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap21]
+Options=FieldName=Resistor - General Purpose SMD$.Library Ref|TableNameOnly=Resistor - General Purpose SMD$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap22]
+Options=FieldName=Resistor - General Purpose SMD$.Footprint Path|TableNameOnly=Resistor - General Purpose SMD$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
+Options=FieldName=Resistor - General Purpose SMD$.Footprint Ref|TableNameOnly=Resistor - General Purpose SMD$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=Resistor - General Purpose SMD$.Footprint Path2|TableNameOnly=Resistor - General Purpose SMD$|FieldNameOnly=Footprint Path2|FieldType=1|ParameterName=[Footprint Path2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap25]
+Options=FieldName=Resistor - General Purpose SMD$.Footprint Ref2|TableNameOnly=Resistor - General Purpose SMD$|FieldNameOnly=Footprint Ref2|FieldType=1|ParameterName=[Footprint Ref2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap26]
+Options=FieldName=Resistor - General Purpose SMD$.Footprint Path3|TableNameOnly=Resistor - General Purpose SMD$|FieldNameOnly=Footprint Path3|FieldType=1|ParameterName=[Footprint Path3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap27]
+Options=FieldName=Resistor - General Purpose SMD$.Footprint Ref3|TableNameOnly=Resistor - General Purpose SMD$|FieldNameOnly=Footprint Ref3|FieldType=1|ParameterName=[Footprint Ref3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
