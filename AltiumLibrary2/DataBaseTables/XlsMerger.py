@@ -15,6 +15,7 @@ import xlrd
 # https://xlrd.readthedocs.io/en/latest/api.html """
 import xlwt
 
+print()
 
 write_book = xlwt.Workbook()
 write_file_name = "db.xls"
@@ -47,7 +48,12 @@ with open("XlsMerger.txt", "w") as text_file:
 
                 text_file.write("info: writing sheet \'{0}\'\n".format(write_sheet_name))
 
-                write_sheet = write_book.add_sheet(write_sheet_name)
+                try:
+                    write_sheet = write_book.add_sheet(write_sheet_name)
+                except Exception:
+                    print("FATAL: invalid sheet name", write_sheet_name)
+                    input("press ENTER to quit")
+                    quit()
                 
 
                 text_file.write("info: cells per row = {0}\n".format([len(read_sheet.row_values(row)) for row in range(read_sheet.nrows)]))
