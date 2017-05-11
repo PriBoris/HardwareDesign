@@ -19,127 +19,154 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Terminal Block - 3#5mm$
+LastFocusedTable=Capacitor - General Purpose SMD$
 [Table1]
 SchemaName=
-TableName=Data converter - ADC$
-Enabled=True
-UserWhere=0
-UserWhereText=
-[Table2]
-SchemaName=
-TableName=Interface - CAN$
-Enabled=True
-UserWhere=0
-UserWhereText=
-[Table3]
-SchemaName=
-TableName=Interface - USB$
-Enabled=True
-UserWhere=0
-UserWhereText=
-[Table4]
-SchemaName=
-TableName=Resistor - General Purpose SMD$
-Enabled=True
-UserWhere=0
-UserWhereText=
-[Table5]
-SchemaName=
-TableName=Terminal Block - 3#5mm$
+TableName=Capacitor - General Purpose SMD$
 Enabled=True
 UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=115|Description-en0=104|Type-en0=131|Description-ru0=101|Type-ru0=105|Package0=71|Pin count0=74|Manufacturer0=94|Name0=115|Component Type0=117|Library Path0=179|Library Ref0=83|Footprint Path0=211|Footprint Ref0=115|Footprint Path20=106|Footprint Ref20=100|Footprint Path30=106|Footprint Ref30=100|ComponentLink1Description0=181|ComponentLink1URL0=143|Author0=123
+BrowserOrder_Visible=Part Number0=138|Description-en0=121|Description-ru0=135|Package0=71|Pin count0=74|Capacitance value0=124|Tolerance0=78|Rated voltage0=98|Dielectric0=74|Name0=57|Manufacturer0=94|Component Type0=117|Library Path0=175|Library Ref0=104|Footprint Path0=151|Footprint Ref0=99|Footprint Path20=106|Footprint Ref20=100|Footprint Path30=106|Footprint Ref30=100|ComponentLink1Description0=181|ComponentLink1URL0=143|Author0=123
+[Table2]
+SchemaName=
+TableName=Data converter - ADC$
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table3]
+SchemaName=
+TableName=Interface - CAN$
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table4]
+SchemaName=
+TableName=Interface - USB$
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table5]
+SchemaName=
+TableName=Resistor - General Purpose SMD$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=123|Library Path0=169|Library Ref0=98|Footprint Path0=151|Footprint Ref0=98|Footprint Path20=151|Footprint Ref20=100|Footprint Path30=151|Footprint Ref30=100|Description-en0=115|Description-ru0=121|Package0=71|Pin count0=74|Value0=54|Tolerance0=78|Power0=58|TCR0=65|Manufacturer0=94|Component Type0=117|ComponentLink1Description0=181|ComponentLink1URL0=143|Author0=123
+[Table6]
+SchemaName=
+TableName=Terminal Block - 3,5mm$
+Enabled=True
+UserWhere=0
+UserWhereText=
 [FieldMap1]
-Options=FieldName=Data converter - ADC$.Part Number|TableNameOnly=Data converter - ADC$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitor - General Purpose SMD$.Part Number|TableNameOnly=Capacitor - General Purpose SMD$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
-Options=FieldName=Data converter - ADC$.Library Path|TableNameOnly=Data converter - ADC$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitor - General Purpose SMD$.Library Path|TableNameOnly=Capacitor - General Purpose SMD$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap3]
-Options=FieldName=Data converter - ADC$.Library Ref|TableNameOnly=Data converter - ADC$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitor - General Purpose SMD$.Library Ref|TableNameOnly=Capacitor - General Purpose SMD$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap4]
-Options=FieldName=Data converter - ADC$.Footprint Path|TableNameOnly=Data converter - ADC$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitor - General Purpose SMD$.Footprint Path|TableNameOnly=Capacitor - General Purpose SMD$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap5]
-Options=FieldName=Data converter - ADC$.Footprint Ref|TableNameOnly=Data converter - ADC$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitor - General Purpose SMD$.Footprint Ref|TableNameOnly=Capacitor - General Purpose SMD$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap6]
-Options=FieldName=Data converter - ADC$.Footprint Path2|TableNameOnly=Data converter - ADC$|FieldNameOnly=Footprint Path2|FieldType=1|ParameterName=[Footprint Path2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitor - General Purpose SMD$.Footprint Path2|TableNameOnly=Capacitor - General Purpose SMD$|FieldNameOnly=Footprint Path2|FieldType=1|ParameterName=[Footprint Path2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap7]
-Options=FieldName=Data converter - ADC$.Footprint Ref2|TableNameOnly=Data converter - ADC$|FieldNameOnly=Footprint Ref2|FieldType=1|ParameterName=[Footprint Ref2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitor - General Purpose SMD$.Footprint Ref2|TableNameOnly=Capacitor - General Purpose SMD$|FieldNameOnly=Footprint Ref2|FieldType=1|ParameterName=[Footprint Ref2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap8]
-Options=FieldName=Data converter - ADC$.Footprint Path3|TableNameOnly=Data converter - ADC$|FieldNameOnly=Footprint Path3|FieldType=1|ParameterName=[Footprint Path3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitor - General Purpose SMD$.Footprint Path3|TableNameOnly=Capacitor - General Purpose SMD$|FieldNameOnly=Footprint Path3|FieldType=1|ParameterName=[Footprint Path3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap9]
-Options=FieldName=Data converter - ADC$.Footprint Ref3|TableNameOnly=Data converter - ADC$|FieldNameOnly=Footprint Ref3|FieldType=1|ParameterName=[Footprint Ref3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitor - General Purpose SMD$.Footprint Ref3|TableNameOnly=Capacitor - General Purpose SMD$|FieldNameOnly=Footprint Ref3|FieldType=1|ParameterName=[Footprint Ref3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap10]
-Options=FieldName=Interface - CAN$.Part Number|TableNameOnly=Interface - CAN$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Data converter - ADC$.Part Number|TableNameOnly=Data converter - ADC$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap11]
-Options=FieldName=Interface - CAN$.Library Path|TableNameOnly=Interface - CAN$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Data converter - ADC$.Library Path|TableNameOnly=Data converter - ADC$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap12]
-Options=FieldName=Interface - CAN$.Library Ref|TableNameOnly=Interface - CAN$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Data converter - ADC$.Library Ref|TableNameOnly=Data converter - ADC$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap13]
-Options=FieldName=Interface - CAN$.Footprint Path|TableNameOnly=Interface - CAN$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Data converter - ADC$.Footprint Path|TableNameOnly=Data converter - ADC$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap14]
-Options=FieldName=Interface - CAN$.Footprint Ref|TableNameOnly=Interface - CAN$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Data converter - ADC$.Footprint Ref|TableNameOnly=Data converter - ADC$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap15]
-Options=FieldName=Interface - CAN$.Footprint Path2|TableNameOnly=Interface - CAN$|FieldNameOnly=Footprint Path2|FieldType=1|ParameterName=[Footprint Path2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Data converter - ADC$.Footprint Path2|TableNameOnly=Data converter - ADC$|FieldNameOnly=Footprint Path2|FieldType=1|ParameterName=[Footprint Path2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap16]
-Options=FieldName=Interface - CAN$.Footprint Ref2|TableNameOnly=Interface - CAN$|FieldNameOnly=Footprint Ref2|FieldType=1|ParameterName=[Footprint Ref2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Data converter - ADC$.Footprint Ref2|TableNameOnly=Data converter - ADC$|FieldNameOnly=Footprint Ref2|FieldType=1|ParameterName=[Footprint Ref2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap17]
-Options=FieldName=Interface - CAN$.Footprint Path3|TableNameOnly=Interface - CAN$|FieldNameOnly=Footprint Path3|FieldType=1|ParameterName=[Footprint Path3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Data converter - ADC$.Footprint Path3|TableNameOnly=Data converter - ADC$|FieldNameOnly=Footprint Path3|FieldType=1|ParameterName=[Footprint Path3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap18]
-Options=FieldName=Interface - CAN$.Footprint Ref3|TableNameOnly=Interface - CAN$|FieldNameOnly=Footprint Ref3|FieldType=1|ParameterName=[Footprint Ref3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Data converter - ADC$.Footprint Ref3|TableNameOnly=Data converter - ADC$|FieldNameOnly=Footprint Ref3|FieldType=1|ParameterName=[Footprint Ref3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap19]
-Options=FieldName=Interface - USB$.Part Number|TableNameOnly=Interface - USB$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - CAN$.Part Number|TableNameOnly=Interface - CAN$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap20]
-Options=FieldName=Interface - USB$.Library Path|TableNameOnly=Interface - USB$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - CAN$.Library Path|TableNameOnly=Interface - CAN$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap21]
-Options=FieldName=Interface - USB$.Library Ref|TableNameOnly=Interface - USB$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - CAN$.Library Ref|TableNameOnly=Interface - CAN$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap22]
-Options=FieldName=Interface - USB$.Footprint Path|TableNameOnly=Interface - USB$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - CAN$.Footprint Path|TableNameOnly=Interface - CAN$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap23]
-Options=FieldName=Interface - USB$.Footprint Ref|TableNameOnly=Interface - USB$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - CAN$.Footprint Ref|TableNameOnly=Interface - CAN$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap24]
-Options=FieldName=Interface - USB$.Footprint Path2|TableNameOnly=Interface - USB$|FieldNameOnly=Footprint Path2|FieldType=1|ParameterName=[Footprint Path2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - CAN$.Footprint Path2|TableNameOnly=Interface - CAN$|FieldNameOnly=Footprint Path2|FieldType=1|ParameterName=[Footprint Path2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap25]
-Options=FieldName=Interface - USB$.Footprint Ref2|TableNameOnly=Interface - USB$|FieldNameOnly=Footprint Ref2|FieldType=1|ParameterName=[Footprint Ref2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - CAN$.Footprint Ref2|TableNameOnly=Interface - CAN$|FieldNameOnly=Footprint Ref2|FieldType=1|ParameterName=[Footprint Ref2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap26]
-Options=FieldName=Interface - USB$.Footprint Path3|TableNameOnly=Interface - USB$|FieldNameOnly=Footprint Path3|FieldType=1|ParameterName=[Footprint Path3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - CAN$.Footprint Path3|TableNameOnly=Interface - CAN$|FieldNameOnly=Footprint Path3|FieldType=1|ParameterName=[Footprint Path3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap27]
-Options=FieldName=Interface - USB$.Footprint Ref3|TableNameOnly=Interface - USB$|FieldNameOnly=Footprint Ref3|FieldType=1|ParameterName=[Footprint Ref3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - CAN$.Footprint Ref3|TableNameOnly=Interface - CAN$|FieldNameOnly=Footprint Ref3|FieldType=1|ParameterName=[Footprint Ref3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap28]
-Options=FieldName=Resistor - General Purpose SMD$.Part Number|TableNameOnly=Resistor - General Purpose SMD$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - USB$.Part Number|TableNameOnly=Interface - USB$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap29]
-Options=FieldName=Resistor - General Purpose SMD$.Library Path|TableNameOnly=Resistor - General Purpose SMD$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - USB$.Library Path|TableNameOnly=Interface - USB$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap30]
-Options=FieldName=Resistor - General Purpose SMD$.Library Ref|TableNameOnly=Resistor - General Purpose SMD$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - USB$.Library Ref|TableNameOnly=Interface - USB$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap31]
-Options=FieldName=Resistor - General Purpose SMD$.Footprint Path|TableNameOnly=Resistor - General Purpose SMD$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - USB$.Footprint Path|TableNameOnly=Interface - USB$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap32]
-Options=FieldName=Resistor - General Purpose SMD$.Footprint Ref|TableNameOnly=Resistor - General Purpose SMD$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - USB$.Footprint Ref|TableNameOnly=Interface - USB$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap33]
-Options=FieldName=Resistor - General Purpose SMD$.Footprint Path2|TableNameOnly=Resistor - General Purpose SMD$|FieldNameOnly=Footprint Path2|FieldType=1|ParameterName=[Footprint Path2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - USB$.Footprint Path2|TableNameOnly=Interface - USB$|FieldNameOnly=Footprint Path2|FieldType=1|ParameterName=[Footprint Path2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap34]
-Options=FieldName=Resistor - General Purpose SMD$.Footprint Ref2|TableNameOnly=Resistor - General Purpose SMD$|FieldNameOnly=Footprint Ref2|FieldType=1|ParameterName=[Footprint Ref2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - USB$.Footprint Ref2|TableNameOnly=Interface - USB$|FieldNameOnly=Footprint Ref2|FieldType=1|ParameterName=[Footprint Ref2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap35]
-Options=FieldName=Resistor - General Purpose SMD$.Footprint Path3|TableNameOnly=Resistor - General Purpose SMD$|FieldNameOnly=Footprint Path3|FieldType=1|ParameterName=[Footprint Path3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - USB$.Footprint Path3|TableNameOnly=Interface - USB$|FieldNameOnly=Footprint Path3|FieldType=1|ParameterName=[Footprint Path3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap36]
-Options=FieldName=Resistor - General Purpose SMD$.Footprint Ref3|TableNameOnly=Resistor - General Purpose SMD$|FieldNameOnly=Footprint Ref3|FieldType=1|ParameterName=[Footprint Ref3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - USB$.Footprint Ref3|TableNameOnly=Interface - USB$|FieldNameOnly=Footprint Ref3|FieldType=1|ParameterName=[Footprint Ref3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap37]
-Options=FieldName=Terminal Block - 3#5mm$.Part Number|TableNameOnly=Terminal Block - 3#5mm$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - General Purpose SMD$.Part Number|TableNameOnly=Resistor - General Purpose SMD$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap38]
-Options=FieldName=Terminal Block - 3#5mm$.Library Path|TableNameOnly=Terminal Block - 3#5mm$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - General Purpose SMD$.Library Path|TableNameOnly=Resistor - General Purpose SMD$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap39]
-Options=FieldName=Terminal Block - 3#5mm$.Library Ref|TableNameOnly=Terminal Block - 3#5mm$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - General Purpose SMD$.Library Ref|TableNameOnly=Resistor - General Purpose SMD$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap40]
-Options=FieldName=Terminal Block - 3#5mm$.Footprint Path|TableNameOnly=Terminal Block - 3#5mm$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - General Purpose SMD$.Footprint Path|TableNameOnly=Resistor - General Purpose SMD$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap41]
-Options=FieldName=Terminal Block - 3#5mm$.Footprint Ref|TableNameOnly=Terminal Block - 3#5mm$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - General Purpose SMD$.Footprint Ref|TableNameOnly=Resistor - General Purpose SMD$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap42]
-Options=FieldName=Terminal Block - 3#5mm$.Footprint Path2|TableNameOnly=Terminal Block - 3#5mm$|FieldNameOnly=Footprint Path2|FieldType=1|ParameterName=[Footprint Path2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - General Purpose SMD$.Footprint Path2|TableNameOnly=Resistor - General Purpose SMD$|FieldNameOnly=Footprint Path2|FieldType=1|ParameterName=[Footprint Path2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap43]
-Options=FieldName=Terminal Block - 3#5mm$.Footprint Ref2|TableNameOnly=Terminal Block - 3#5mm$|FieldNameOnly=Footprint Ref2|FieldType=1|ParameterName=[Footprint Ref2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - General Purpose SMD$.Footprint Ref2|TableNameOnly=Resistor - General Purpose SMD$|FieldNameOnly=Footprint Ref2|FieldType=1|ParameterName=[Footprint Ref2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap44]
-Options=FieldName=Terminal Block - 3#5mm$.Footprint Path3|TableNameOnly=Terminal Block - 3#5mm$|FieldNameOnly=Footprint Path3|FieldType=1|ParameterName=[Footprint Path3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - General Purpose SMD$.Footprint Path3|TableNameOnly=Resistor - General Purpose SMD$|FieldNameOnly=Footprint Path3|FieldType=1|ParameterName=[Footprint Path3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap45]
-Options=FieldName=Terminal Block - 3#5mm$.Footprint Ref3|TableNameOnly=Terminal Block - 3#5mm$|FieldNameOnly=Footprint Ref3|FieldType=1|ParameterName=[Footprint Ref3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - General Purpose SMD$.Footprint Ref3|TableNameOnly=Resistor - General Purpose SMD$|FieldNameOnly=Footprint Ref3|FieldType=1|ParameterName=[Footprint Ref3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap46]
+Options=FieldName=Terminal Block - 3,5mm$.Part Number|TableNameOnly=Terminal Block - 3,5mm$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap47]
+Options=FieldName=Terminal Block - 3,5mm$.Library Path|TableNameOnly=Terminal Block - 3,5mm$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap48]
+Options=FieldName=Terminal Block - 3,5mm$.Library Ref|TableNameOnly=Terminal Block - 3,5mm$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap49]
+Options=FieldName=Terminal Block - 3,5mm$.Footprint Path|TableNameOnly=Terminal Block - 3,5mm$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap50]
+Options=FieldName=Terminal Block - 3,5mm$.Footprint Ref|TableNameOnly=Terminal Block - 3,5mm$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap51]
+Options=FieldName=Terminal Block - 3,5mm$.Footprint Path2|TableNameOnly=Terminal Block - 3,5mm$|FieldNameOnly=Footprint Path2|FieldType=1|ParameterName=[Footprint Path2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap52]
+Options=FieldName=Terminal Block - 3,5mm$.Footprint Ref2|TableNameOnly=Terminal Block - 3,5mm$|FieldNameOnly=Footprint Ref2|FieldType=1|ParameterName=[Footprint Ref2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap53]
+Options=FieldName=Terminal Block - 3,5mm$.Footprint Path3|TableNameOnly=Terminal Block - 3,5mm$|FieldNameOnly=Footprint Path3|FieldType=1|ParameterName=[Footprint Path3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap54]
+Options=FieldName=Terminal Block - 3,5mm$.Footprint Ref3|TableNameOnly=Terminal Block - 3,5mm$|FieldNameOnly=Footprint Ref3|FieldType=1|ParameterName=[Footprint Ref3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
