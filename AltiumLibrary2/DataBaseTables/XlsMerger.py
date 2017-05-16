@@ -68,8 +68,12 @@ with open("XlsMerger.txt", "w") as text_file:
     pass
 pass
 
-
-write_book.save(write_file_name)
+try:
+	write_book.save(write_file_name)
+except PermissionError:
+	print("FATAL: Permission Error, unable to write to ", write_file_name)
+	input("press ENTER to quit")
+	quit()
 
 print()
 print("info:", "total", read_file_count, "files were read")
