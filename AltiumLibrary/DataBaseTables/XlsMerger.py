@@ -19,12 +19,15 @@ print()
 
 write_book = xlwt.Workbook()
 write_file_name = "db.xls"
+partnumber_file_name = "pn.list"
 
 read_file_count = 0
 read_sheet_count = 0
 
+pn_values = []
 
 with open("XlsMerger.txt", "w") as text_file:
+
 
     for read_file_name in os.listdir(os.getcwd()):
 
@@ -62,18 +65,30 @@ with open("XlsMerger.txt", "w") as text_file:
                     for col_index, read_value in zip(range(len(read_sheet.row_values(row_index))), read_sheet.row_values(row_index)):
                         write_sheet.write(row_index, col_index, read_value)
 
+                    pn_value = read_sheet.row_values(row_index)[0]
+                    if row_index != 0 and pn_value != "":
+                        pn_values.append(pn_value)
+
+
                 pass
             pass
         pass
     pass
+
+    partnumber_file = open(partnumber_file_name, "w")
+    pn_values_sorted = sorted(pn_values)
+    partnumber_file.write("(total "+str(len(pn_values_sorted))+" parts)"+"\n\n")
+    for pn_value in pn_values_sorted:
+        partnumber_file.write(pn_value + "\n")
+    partnumber_file.close()
 pass
 
 try:
-	write_book.save(write_file_name)
+    write_book.save(write_file_name)
 except PermissionError:
-	print("FATAL: Permission Error, unable to write to ", write_file_name)
-	input("press ENTER to quit")
-	quit()
+    print("FATAL: Permission Error, unable to write to ", write_file_name)
+    input("press ENTER to quit")
+    quit()
 
 print()
 print("info:", "total", read_file_count, "files were read")
