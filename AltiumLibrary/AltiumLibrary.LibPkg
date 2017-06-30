@@ -164,7 +164,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document9]
-DocumentPath=SchLibraries\IC Interface.SchLib
+DocumentPath=SchLibraries\IC Clock.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -180,7 +180,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document10]
-DocumentPath=SchLibraries\IC Power Driver.SchLib
+DocumentPath=SchLibraries\IC Interface.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -196,7 +196,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document11]
-DocumentPath=SchLibraries\IC Power.SchLib
+DocumentPath=SchLibraries\IC Power Driver.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -212,7 +212,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document12]
-DocumentPath=SchLibraries\MCU.SchLib
+DocumentPath=SchLibraries\IC Power.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -228,7 +228,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document13]
-DocumentPath=SchLibraries\Opto.SchLib
+DocumentPath=SchLibraries\IC Memory.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -244,7 +244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document14]
-DocumentPath=SchLibraries\Passive.SchLib
+DocumentPath=SchLibraries\MCU.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -260,7 +260,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document15]
-DocumentPath=SchLibraries\Power Module.SchLib
+DocumentPath=SchLibraries\Opto.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -276,7 +276,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document16]
-DocumentPath=SchLibraries\RF IC.SchLib
+DocumentPath=SchLibraries\Passive.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -292,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document17]
-DocumentPath=PcbLibraries\Battery.PcbLib
+DocumentPath=SchLibraries\Power Module.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -308,7 +308,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document18]
-DocumentPath=PcbLibraries\Button Switch.PcbLib
+DocumentPath=SchLibraries\RF IC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -324,7 +324,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document19]
-DocumentPath=PcbLibraries\CHIP.PcbLib
+DocumentPath=PcbLibraries\Battery.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -340,7 +340,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document20]
-DocumentPath=PcbLibraries\Clock.PcbLib
+DocumentPath=PcbLibraries\Button Switch.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -356,7 +356,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document21]
-DocumentPath=PcbLibraries\Connector.PcbLib
+DocumentPath=PcbLibraries\CHIP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -372,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document22]
-DocumentPath=PcbLibraries\DO.PcbLib
+DocumentPath=PcbLibraries\Clock.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -388,7 +388,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document23]
-DocumentPath=PcbLibraries\ElectroMechanical-Relay.PcbLib
+DocumentPath=PcbLibraries\Connector.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -404,7 +404,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document24]
-DocumentPath=PcbLibraries\Inductor.PcbLib
+DocumentPath=PcbLibraries\DO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -420,7 +420,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document25]
-DocumentPath=PcbLibraries\Opto.PcbLib
+DocumentPath=PcbLibraries\ElectroMechanical-Relay.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -436,7 +436,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document26]
-DocumentPath=PcbLibraries\Passive.PcbLib
+DocumentPath=PcbLibraries\Inductor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -452,7 +452,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document27]
-DocumentPath=PcbLibraries\Power Module.PcbLib
+DocumentPath=PcbLibraries\Opto.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -468,7 +468,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document28]
-DocumentPath=PcbLibraries\QFN.PcbLib
+DocumentPath=PcbLibraries\Passive.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -484,7 +484,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document29]
-DocumentPath=PcbLibraries\QFP.PcbLib
+DocumentPath=PcbLibraries\Power Module.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -500,7 +500,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document30]
-DocumentPath=PcbLibraries\SOIC.PcbLib
+DocumentPath=PcbLibraries\QFN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -516,7 +516,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document31]
-DocumentPath=PcbLibraries\SOT.PcbLib
+DocumentPath=PcbLibraries\QFP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -532,7 +532,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document32]
-DocumentPath=PcbLibraries\Terminal Block.PcbLib
+DocumentPath=PcbLibraries\SOIC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -548,7 +548,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document33]
-DocumentPath=db.DbLib
+DocumentPath=PcbLibraries\SOT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -564,7 +564,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document34]
-DocumentPath=SchLibraries\Specials.SchLib
+DocumentPath=PcbLibraries\Terminal Block.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -580,6 +580,38 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document35]
+DocumentPath=db.DbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document36]
+DocumentPath=SchLibraries\Specials.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document37]
 DocumentPath=PcbLibraries\Specials.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
