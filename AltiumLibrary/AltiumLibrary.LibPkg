@@ -68,7 +68,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document3]
-DocumentPath=SchLibraries\Discrete.SchLib
+DocumentPath=SchLibraries\Crystal.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -84,7 +84,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document4]
-DocumentPath=SchLibraries\ElectroMechanical.SchLib
+DocumentPath=SchLibraries\Discrete.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -100,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document5]
-DocumentPath=SchLibraries\ElectroMechanical-Relay.SchLib
+DocumentPath=SchLibraries\ElectroMechanical.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -116,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document6]
-DocumentPath=SchLibraries\Filter.SchLib
+DocumentPath=SchLibraries\ElectroMechanical-Relay.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132,7 +132,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document7]
-DocumentPath=SchLibraries\Clock.SchLib
+DocumentPath=SchLibraries\Filter.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
